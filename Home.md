@@ -1,0 +1,4 @@
+---
+banner: "![[Anatomia.jpg]]"
+---
+
