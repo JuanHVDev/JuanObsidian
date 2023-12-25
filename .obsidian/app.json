@@ -3,5 +3,10 @@
   "defaultViewMode": "source",
   "livePreview": false,
   "spellcheck": false,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "spellcheckDictionary": [
+    "extragonadales",
+    "2n",
+    "blastomeras"
+  ]
 }

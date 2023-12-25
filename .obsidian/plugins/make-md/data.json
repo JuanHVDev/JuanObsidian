@@ -10,7 +10,7 @@
   "inlineStyler": true,
   "makerMode": true,
   "spacesMDBInHidden": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
@@ -70,7 +70,7 @@
   "fmKeyFilter": "_filters",
   "fmKeyLinks": "_links",
   "openSpacesOnLaunch": true,
-  "indexSVG": false,
+  "indexSVG": true,
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
@@ -80,7 +80,7 @@
   "enableTagSpaces": true,
   "enableHomeSpace": true,
   "showSpacePinIcon": true,
-  "minimalFix": false,
+  "minimalFix": true,
   "experimental": false,
   "systemName": "Vault"
 }

@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "429ca614b12e2914",
+        "id": "a629bd04f1276608",
         "type": "tabs",
         "children": [
           {
-            "id": "16739414e37669df",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d8b574a71652f1a",
+            "id": "95a06315ddf42aa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Basico.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7c95f870a63ea06f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
+                "file": "Materias/Embriología General.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Materias/Embriología General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Materias/Embriología General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Materias/Embriología General.md"
+              }
             }
           },
           {
@@ -174,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
@@ -183,13 +167,16 @@
       "markdown-importer:Abrir el importador de Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1931447eae6cdf62",
+  "active": "95a06315ddf42aa2",
   "lastOpenFiles": [
     "Home.md",
+    "Materias/Embriología General.md",
+    "images",
+    "images/Pasted image 20231224184306.png",
+    "Templates/Basico.md",
     "Spaces/Home",
     "Spaces",
     "Banners/Anatomia.jpg",
@@ -197,7 +184,6 @@
     "Banners/136918.jpg",
     "Banners",
     "Nueva carpeta",
-    "Templates/Basico.md",
     "Scripts",
     "Templates",
     "Materias/undefined/Fisiología del Sistema Digestivo.md",
